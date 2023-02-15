@@ -1,2 +1,21 @@
 
+.dis {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+    .dis p {
+      width: 100px;
+      height: 100px;
+      font-size: 40px;
+    }
+    .dis .tre {
+      background-color: green;
+    }
+    .dis .on{
+      background-color: red;
+    }
+    .dis .to {
+      background-color: blue;
+    }
 /* Your CSS Code here. */
