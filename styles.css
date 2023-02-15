@@ -1,8 +1,8 @@
 
 .dis {
       display: flex;
-      flex-direction: row;
       justify-content: space-between;
+      flex-wrap: nowrap;
     }
     .dis p {
       width: 100px;
